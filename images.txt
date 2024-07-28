@@ -1,0 +1,3 @@
+Find a way to put image paths in here
+ex)
+./images/omori.png
